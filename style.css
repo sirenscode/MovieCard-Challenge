@@ -1,0 +1,6 @@
+.trailer:hover{
+    .svg-fill{
+        fill: #000;
+        transition: ease-in 300ms;
+    }
+}
